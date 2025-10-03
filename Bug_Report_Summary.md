@@ -31,12 +31,21 @@ When I intentionally enter an empty task the app displays an empty task instead 
 
 ### 🐞 BUG-002 
 **Title**: The app accepts invalid tasks
-**GitHub Link**:  https://github.com/PLP-Database-Design/wk-1-KENEDY005-1/issues/2#issue-3472312223
+**GitHub Link**:  https://github.com/KENEDY005/swt-wk-1/issues/2#issue-3480174298
 **Requirement Affected**: Data validation 
 **Severity**: High 
 **Summary**:  
 Whenever I enter an invalid task like a numeric number e.g. "123" the app adds it as a new task instead of prompting me to enter a valid task. 
 ![alt text](image-1.png)
+---
+### 🐞 BUG-002 
+**Title**: The app accepts double entry of tasks
+**GitHub Link**:  https://github.com/KENEDY005/swt-wk-1/issues/2#issue-3480174298
+**Requirement Affected**: Data intergrity 
+**Severity**: High 
+**Summary**:  
+When I try to enter same task the app accepts it and adds it as a new task instead of warning me that I have already entered the task. 
+<img width="544" height="444" alt="image" src="https://github.com/user-attachments/assets/eed17eac-2aca-4951-8543-b9856467796f" />
 ---
 
 ## 💭 Reflection  
@@ -48,5 +57,6 @@ Answer briefly (1–2 paragraphs):
 
 It was also hard to specify which requirement is affected.
 - How confident are you now in identifying and reporting bugs? Very confident
+
 
 
