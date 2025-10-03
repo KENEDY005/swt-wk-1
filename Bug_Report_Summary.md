@@ -40,7 +40,7 @@ Whenever I enter an invalid task like a numeric number e.g. "123" the app adds i
 ---
 ### 🐞 BUG-002 
 **Title**: The app accepts double entry of tasks
-**GitHub Link**:  https://github.com/KENEDY005/swt-wk-1/issues/2#issue-3480174298
+**GitHub Link**:  https://github.com/KENEDY005/swt-wk-1/issues/3#issue-3480214843
 **Requirement Affected**: Data intergrity 
 **Severity**: High 
 **Summary**:  
@@ -57,6 +57,7 @@ Answer briefly (1–2 paragraphs):
 
 It was also hard to specify which requirement is affected.
 - How confident are you now in identifying and reporting bugs? Very confident
+
 
 
 
