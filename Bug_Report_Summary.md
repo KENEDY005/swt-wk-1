@@ -20,7 +20,7 @@ List 3 things you expect the To-Do app to do correctly.
 
 ### 🐞 BUG-001  
 **Title**: The app accepts empty tasks 
-**GitHub Link**: https://github.com/PLP-Database-Design/wk-1-KENEDY005-1/issues/1#issue-3472248227
+**GitHub Link**: https://github.com/KENEDY005/swt-wk-1/issues/1#issue-3480152767
 **Requirement Affected**: Input Validation  
 **Severity**: Medium 
 **Summary**:  
@@ -48,4 +48,5 @@ Answer briefly (1–2 paragraphs):
 
 It was also hard to specify which requirement is affected.
 - How confident are you now in identifying and reporting bugs? Very confident
+
 
